@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/Dashboard/page": "app/Dashboard/page.js",
+  "/Dashboard/callback-inquires/page": "app/Dashboard/callback-inquires/page.js",
+  "/Dashboard/contactus-inquires/page": "app/Dashboard/contactus-inquires/page.js"
+}
